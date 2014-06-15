@@ -9,9 +9,9 @@ A Rubik’s Cube Implemented Using OpenGL 3.1, which inculudes the following fun
 
 snap shoots
 -----------
-![ScreenShot](http://github.com/azmy92/Rubik-s-Cube/blob/master/rub1.jpg?raw=true)
+![ScreenShot](https://raw.githubusercontent.com/azmy92/Rubik-s-Cube/master/rub1.jpg)
 
-![ScreenShot](http://github.com/azmy92/Rubik-s-Cube/blob/master/rub2.jpg?raw=true)
+![ScreenShot](https://raw.githubusercontent.com/azmy92/Rubik-s-Cube/master/rub2.jpg)
 
 Tech
 ----
